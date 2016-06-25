@@ -7,6 +7,11 @@
 _obj
 _test
 
+# IDEA files
+.idea
+svnwrapper.iml
+
+
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out

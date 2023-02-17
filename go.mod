@@ -1,3 +1,3 @@
-module github.com/slavyan85/svnwrapper
+module github.com/vkryucheko/svnwrapper
 
-go 1.13
+go 1.20
